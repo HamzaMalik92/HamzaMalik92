@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hamzamalikcs20
+- 👀 I’m interested in App Development, Artificial Intelligence & Networking
+- 🌱 I’m currently learning Computer Networks
+- 📫 How to reach me : hamzamalikcs20@gmail.com
+- Linkedin : https://www.linkedin.com/in/hamzamalikcs20
