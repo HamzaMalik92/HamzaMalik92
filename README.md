@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamza Malik.
 - 👀 I’m interested in App & Web Development, Machine Learning and Blockchain
-- 🌱 I’m currently learning Computer Networks
+- 🌱 I’m currently learning Front End Development 
 - 📫 How to reach me : hamzamalikcs20@gmail.com
 - Linkedin : https://www.linkedin.com/in/hamzamalikcs20
