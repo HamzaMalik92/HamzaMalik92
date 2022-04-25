@@ -49,10 +49,11 @@ I’m interested in App & Web Development, Machine Learning, and Blockchain.
 
 <a href="https://github.com/hamzamalikcs20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamalikcs20&langs_count=10&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/hamzamalikcs20/Expense-Tracker-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalikcs20&repo=Expense-Tracker-App&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/hamzamalikcs20/Flutter-Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalikcs20&repo=Flutter-Weather-App&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/hamzamalikcs20/Pharmacy-Inventory-Management-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalikcs20&repo=Pharmacy-Inventory-Management-System&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/hamzamalikcs20/TextUtils---React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalikcs20&repo=TextUtils---React&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+ -->
