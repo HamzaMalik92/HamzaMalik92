@@ -8,8 +8,8 @@ I’m interested in App & Web Development, Machine Learning, and Blockchain.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [hamzamalikcs20@gmail.com](mailto:hamzamalikcs20@gmail.com)
-* 🚀  I'm currently working on [FYP (Frontend, YOLO, OCR)](http://.)
-* 🧠  I'm learning React
+* 🚀  I'm currently working as Full Stack Developer.
+* 🧠  I'm learning React and Knockoutjs.
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
