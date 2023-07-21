@@ -4,12 +4,12 @@ Hi 👋 My name is Hamza Malik
 Software Engineer
 -----------------
 
-I’m interested in App & Web Development, Machine Learning, and Blockchain.
+I’m interested in App & Web Development, AI, and Machine Learning.
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [hamzamalikcs20@gmail.com](mailto:hamzamalikcs20@gmail.com)
-* 🚀  I'm currently working as Software Engineer.
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🌍  Based in Pakistan
+* ✉️  Email: [hamzamalikcs20@gmail.com](mailto:hamzamalikcs20@gmail.com)
+* 🚀  Currently working as Software Engineer.
+* 🤝  Open to collaborating on Interesting Projects
 
 ### Skills
 
@@ -38,7 +38,9 @@ I’m interested in App & Web Development, Machine Learning, and Blockchain.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hamzamalikcs20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamzamalikcs20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12944467" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/hamzamalikcs20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<!--  <a href="https://www.linkedin.com/in/hamzamalikcs20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> -->
+ <a href="https://www.stackoverflow.com/users/12944467" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 <!-- ### Badges
 
