@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Hamza
 Software Engineer
 -----------------
 
-I'm a passionate software developer with 2 years of experience, specializing in Java, Springboot, Android, and Flutter development. I have a strong background in building and maintaining complex applications.
+I'm a passionate software developer with almost 3 years of experience, specializing in Java, Springboot, Android, and Flutter development. I have a strong background in building and maintaining complex applications.
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [hamzamalikcs20+github@gmail.com](mailto:hamzamalikcs20+github@gmail.com)
